@@ -14,4 +14,5 @@ Delivered actionable remediation steps to strengthen Rekall's security posture.
 Key Findings:
 Discovered critical vulnerabilities, including weak password policies, open ports, and PHP injection risks.
 Recommended implementing Content Security Policies (CSP), secure input validation, and enhanced password protocols.
+
 Tools & Techniques: Nmap, Metasploit, Bloodhound, hashcat, and OWASP standards.
