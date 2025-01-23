@@ -2,7 +2,6 @@
 Welcome to My GitHub Profile!
 
 Featured Projects
-
 2. Penetration Test Report: Rekall Corporation
 
 Overview: Executed a detailed penetration test on Rekall Corporation's network and web applications to uncover vulnerabilities and recommend remediation strategies for enhancing security.
